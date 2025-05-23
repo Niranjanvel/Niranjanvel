@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm NIRANJAN</h1>
-<h2 align="center">A passionate frontend developer from India,Always Exploring New Tech</h2>
-<h3 About Me:
-BCA GRADUATE, Currently Exploring | 💻 Passionate about Python, Machine Learning & Full Stack Development Skilled in Python, Java, C, C++, JavaScript, Git, and ML LibrariesAlways learning & building real-world tech solutions</h3>
+<h3 align="center">A passionate frontend developer from India,Always Exploring New Tech</h3>
+# 💫 About Me:
+BCA Graduate,<br> Currently Exploring | 💻 Passionate about Python, Machine Learning & Full Stack Development<br>> Skilled in Python, Java, C, C++, JavaScript, Git, and ML Libraries<br>>Always learning & building real-world tech solutions
 
 
 ## 🌐 Socials:
@@ -20,4 +20,3 @@ BCA GRADUATE, Currently Exploring | 💻 Passionate about Python, Machine Learni
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # MY CONTRIBUTIONS
 <img alt="Snake animation" src="https://raw.githubusercontent.com/Niranjanvel/Niranjanvel/output/github-snake-dark.svg" />
-
