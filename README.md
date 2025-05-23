@@ -19,6 +19,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niranjanvel&show_icons=true&locale=en" alt="niranjanvel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjanvel&" alt="niranjanvel" /></p>
+
+# MY CONTRIBUTIONS
 <img alt="Snake animation" src="https://raw.githubusercontent.com/Niranjanvel/Niranjanvel/output/github-snake-dark.svg" />
 
 
