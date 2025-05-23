@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NIRANJAN</h1>
 <h3 align="center">A passionate frontend developer from India,Always Exploring New Tech</h3>
-# 💫 About Me:
-Currently Exploring,<br> BCA Graduate | 💻 Passionate about Python, Machine Learning & Full Stack Development<br>> Skilled in Python, Java, C, C++, JavaScript, Git, and ML Libraries<br>>Always learning & building real-world tech solutions
+<h3💫 About Me:
+Currently Exploring,<br> BCA Graduate | 💻 Passionate about Python, Machine Learning & Full Stack Development<br>> Skilled in Python, Java, C, C++, JavaScript, Git, and ML Libraries<br>>Always learning & building real-world tech solutions</h3💫>
 
 
 ## 🌐 Socials:
